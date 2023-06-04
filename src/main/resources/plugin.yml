@@ -1,0 +1,4 @@
+name: badbot
+version: '${version}'
+main: com.juiceteam.badbot.Badbot
+api-version: 1.16

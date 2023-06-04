@@ -1,0 +1,12 @@
+message:
+  boss-spawn: "Моб был заспавнен"
+  boss-death: "Босс был убит! лут пропадет %time% минут"
+  loot-lost: "По истечению времени никто не забрал лут-бокс с босса поэтому он пропал"
+  loot-claim: "%player% забрал лут-бокс с босса"
+config:
+  time: 30
+  death-lost: 15
+  item-loot:
+    - diamond
+    - loot
+    - gold
